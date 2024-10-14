@@ -120,3 +120,4 @@ VALUES
 select * from Lease;
 Select * from Customer;
 select * from Vehicle;
+select * from Payment;
